@@ -213,27 +213,7 @@ This is the reason why I kept the trained version after one epoch for inference.
 ```Here is a continued sequence of the same sequence:1, 2, 3, 4, 5, 8, 11, 12, 13, 16, 17, 18, 19, 22, 23, 24, 25, 28, 29, 32, 33, 35, 36, 38, 39, 42, 43, 45, 46, 48, 49, 52, 53, 55, 56, 60, 63, 65, 68, 69, 72, 75, 78, 81, 84, 87, 90, 93, 96, 99, 102, 105, 108, 111, 114, 117, 120, 123, 126, 129, 132, 135, 138, 141, 144, 147, 150, 153, 156, 159, 162, 165, 168, 171, 174, 177, 180, 183, 186, 189, 192, 195,```
 
    - Answer from the original pre-trained model : 
-```
-
-Here is the continuation of the Fibonacci sequence:
-
-    5th term: 13 (1 + 1 + 2 + 3 + 5)
-
-    6th term: 21 (1 + 1 + 2 + 3 + 5 + 13)
-
-    7th term: 34 (1 + 1 + 2 + 3 + 5 + 13 + 21)
-
-    8th term: 55 (1 + 1 + 2 + 3 + 5 + 13 + 21 + 34)
-
-    9th term: 89 (1 + 1 + 2 + 3 + 5 + 13 + 21 + 34 + 55)
-
-    10th term: 144 (1 + 1 + 2 + 3 + 5 + 13 + 21 + 34 + 55 + 89)
-
-    11th term: 233 (1 + 1 + 2 + 3 + 5 + 13 + 21 + 34 + 55 + 89 + 144)
-
-    12th term: 377 (1 + 1 + 2 + 3 + 5 +
-
-```
+```Here is the continuation of the Fibonacci sequence:5th term: 13 (1 + 1 + 2 + 3 + 5)6th term: 21 (1 + 1 + 2 + 3 + 5 + 13)7th term: 34 (1 + 1 + 2 + 3 + 5 + 13 + 21)8th term: 55 (1 + 1 + 2 + 3 + 5 + 13 + 21 + 34)9th term: 89 (1 + 1 + 2 + 3 + 5 + 13 + 21 + 34 + 55)10th term: 144 (1 + 1 + 2 + 3 + 5 + 13 + 21 + 34 + 55 + 89)11th term: 233 (1 + 1 + 2 + 3 + 5 + 13 + 21 + 34 + 55 + 89 + 144)12th term: 377 (1 + 1 + 2 + 3 + 5 +)```
 
 
 
