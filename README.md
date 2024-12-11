@@ -132,7 +132,7 @@ This is the reason why I kept the trained version after one epoch for inference.
    - **Reason**: A moderately high learning rate accelerates convergence while avoiding overshooting the optimum.
 
    - **Optimizer**: `"adamw_8bit"`
-   - **Reason**: This efficient optimizer reduces memory usage while maintaining performance, particularly useful for large models.
+   - **Reason**: Rolling average of past gradients + weight decay
 
    - **Weight Decay**: `0.01`
    - **Reason**: Regularization prevents overfitting by penalizing large weights, promoting simpler model solutions.
