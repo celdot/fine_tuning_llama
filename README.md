@@ -24,7 +24,7 @@ This repository contains my project where I fine-tuned a pre-trained LLaMA 3.2 m
    - Automatically downloads the fine-tuned models from Hugging Face during inference.
    - Conversational interface to test the model's capabilities in a chatbot format.
    - The URL for the marxist LLM is : https://e6659ec95c19182e4c.gradio.live/ 
-   - The URL for the fine-tuned LLM on the Fine Tome dataset is : https://e6659ec95c19182e4c.gradio.live/ 
+   - The URL for the fine-tuned LLM on the Fine Tome dataset is : https://huggingface.co/spaces/celdot/lora-llama
 
 ---
 
